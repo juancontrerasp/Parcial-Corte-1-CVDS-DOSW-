@@ -6,7 +6,7 @@ public class Graph extends ReportDecorator {
 
     @Override
     public String getReportInfo() {
-        return report.getReportInfo() + "   Gráficos estadísticos de desempeño";
+        return report.getReportInfo() + ", gráficos estadísticos de desempeño";
     }
 
 }

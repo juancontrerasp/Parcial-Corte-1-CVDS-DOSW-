@@ -7,7 +7,7 @@ public class Table extends ReportDecorator {
 
     @Override
     public String getReportInfo() {
-        return report.getReportInfo() + " Tablas con calificaciones";
+        return report.getReportInfo() + ", tablas con calificaciones";
     }
 
 }

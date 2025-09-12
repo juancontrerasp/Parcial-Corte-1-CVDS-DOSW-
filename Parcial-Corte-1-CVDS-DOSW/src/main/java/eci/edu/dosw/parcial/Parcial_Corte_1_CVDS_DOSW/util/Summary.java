@@ -7,7 +7,7 @@ public class Summary extends ReportDecorator {
 
     @Override
     public String getReportInfo() {
-        return report.getReportInfo() + " Resúmenes con indicadores";
+        return report.getReportInfo() + ", resúmenes con indicadores";
     }
 
 }

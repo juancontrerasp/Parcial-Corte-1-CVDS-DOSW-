@@ -15,6 +15,8 @@ public class ParcialCorte1CvdsDoswApplication {
 	public static void  excelReportGenerator(){
 		Report excelReport = new ExcelReport();
 		excelReport = new Graph(excelReport);
+		excelReport = new Table(excelReport);
+		excelReport = new Summary(excelReport);
 		System.out.println(excelReport.getReportInfo());
 	}
 }
