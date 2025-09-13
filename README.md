@@ -80,3 +80,23 @@ La clase `ParcialCorte1CvdsDoswApplication` demuestra la funcionalidad del siste
 ![Salida en Consola](Parcial-Corte-1-CVDS-DOSW/docs/imagenes/Evidencia1.png)
 
 ---
+
+## 6. Pruebas unitarias
+
+   - Se implementaron pruebas unitarias para todas las clases y métodos utilizando JUnit y Spring Boot Test.
+
+![Pruebas unitarias](Parcial-Corte-1-CVDS-DOSW/docs/imagenes/unitarias.png)
+
+---
+
+## 7. JACOCO
+2. **Análisis de Cobertura con JaCoCo**:
+   - Las pruebas alcanzan una cobertura superior al 80% en las clases principales (`ReportBuilder`, `ReportDecorator`, y sus implementaciones).
+  
+![jacoco](Parcial-Corte-1-CVDS-DOSW/docs/imagenes/jacoco.png)
+
+## 7. Análisis Estático con SonarQube
+
+
+![sonar](Parcial-Corte-1-CVDS-DOSW/docs/imagenes/sonar.png)
+     
