@@ -99,4 +99,5 @@ La clase `ParcialCorte1CvdsDoswApplication` demuestra la funcionalidad del siste
 
 
 ![sonar](Parcial-Corte-1-CVDS-DOSW/docs/imagenes/sonar.png)
-     
+
+El bajo porcentaje de SonarQube se debe a que la clase ParcialCorte1CvdsDoswApplication no tiene pruebas, dando un 3.4% de covertura y bajando muchísimo el score.
